@@ -3,7 +3,7 @@ import Header from './compoents/Header';
 
 const App = () => {
   return (
-    <div className='flex flex-col items-center px-10 pt-20 pb-5 xl:px-60'>
+    <div className='flex flex-col items-center px-5 pt-20 pb-5 sm:px-10 xl:px-60'>
       <Header />
       <Gallery />
       <div className='mt-10 text-center'>
