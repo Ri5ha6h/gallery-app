@@ -1,5 +1,5 @@
-import Gallery from './compoents/Gallery';
-import Header from './compoents/Header';
+import Gallery from './components/Gallery';
+import Header from './components/Header';
 
 const App = () => {
   return (
